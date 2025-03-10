@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](www.google.com) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
