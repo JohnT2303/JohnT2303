@@ -1,66 +1,64 @@
-
-<!--Night Owl image-->
+<!-- Imagen de Búho Nocturno -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ John Torres! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
+<!-- Encabezado -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Soy John Torres  
+### Desarrollador Full Stack | Especialista en Frontend y E-commerce 🚀  
+<br />
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Ecommerce Building. </p>
+<!-- Introducción -->
+## 📌 Sobre mí  
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](www.google.com) for more details about me.
-<!--End Intro-->
+Soy un **Desarrollador Full Stack** con una sólida experiencia en la construcción de **aplicaciones web escalables y de alto rendimiento**. Me especializo en **frontend**, optimización de interfaces y desarrollo de soluciones para **e-commerce**, **sistemas de autenticación** e **integración de APIs**.  
 
-<!--Profile Count Badge-->
+🚀 **Freelancer en UpWork** → [Mi Perfil](www.google.com)  
+💡 Siempre en busca de nuevas tecnologías y metodologías para mejorar el desarrollo.  
+🌎 Apasionado por la colaboración en entornos ágiles y trabajo en equipo.  
+⚡ Me encanta contribuir a proyectos **Open Source** y ayudar a la comunidad.  
+📂 Puedes visitar mi [Portafolio](www.google.com) para conocer más sobre mi trabajo.  
 
 ---
-<br />
 
-<!--Languages and Tools Section-->       
-  ## 🔥 Languages:
+## 🛠️ Habilidades Técnicas  
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-</p>
+### 🔹 Lenguajes de Programación  
+- **JavaScript (ES6+)**, **TypeScript**, **Python**, **PHP**  
+- **SQL (MySQL, SQL Server)**  
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+### 🔹 Frontend  
+- **React.js, Next.js**, **Redux, Zustand**, **Tailwind CSS, Bootstrap, SASS**  
+- **WordPress (creación de temas y plugins personalizados con PHP y JavaScript)**  
+- **Optimización de rendimiento y accesibilidad web**  
 
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](www.google.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](www.google.com) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.google.com)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/john._torres03/)
-[![Visits Badge](https://badges.pufler.dev/visits/JohnT2303/JohnT2303?style=for-the-badge)](https://github.com/JohnT2303)
+### 🔹 Backend  
+- **Node.js (Express.js, NestJS)**, **Django, Flask**  
+- **Autenticación con JWT y OAuth**  
+- **Integración de APIs REST y GraphQL**  
+- **Gestión de bases de datos relacionales y no relacionales**  
 
-</p>
+### 🔹 DevOps y Herramientas  
+- **Git, GitHub, GitLab** (flujo de trabajo CI/CD)  
+- **Docker, Nginx, Apache**  
+- **Despliegue en AWS, Vercel, Netlify, DigitalOcean**  
+- **Manejo de entornos Linux y automatización de tareas**  
 
-<br />
+---
 
-<!--- stats & Trophy (start) -->
+## 📡 Contacto y Redes  
+
 <p align="center">
-  <!--- stats (start) -->
+  <a href="www.google.com"><img src="https://img.shields.io/badge/portafolio-%23.svg?&style=for-the-badge&logo=&logoColor=white"></a>
+  <a href="www.google.com"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="www.google.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/john._torres03/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/JohnT2303"><img src="https://badges.pufler.dev/visits/JohnT2303/JohnT2303?style=for-the-badge"></a>
+</p>
 
+---
 
-</p>        
-<!--- stats (end) -->
-
-<!--Footer--> 
+<!-- Pie de página -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
