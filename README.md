@@ -13,11 +13,11 @@
 
 Soy un **Desarrollador Full Stack** con una sólida experiencia en la construcción de **aplicaciones web escalables y de alto rendimiento**. Me especializo en **frontend**, optimización de interfaces y desarrollo de soluciones para **e-commerce**, **sistemas de autenticación** e **integración de APIs**.  
 
-🚀 **Freelancer en UpWork** → [Mi Perfil](www.google.com)  
+🚀 **Freelancer en UpWork** → [Mi Perfil](https://www.upwork.com/freelancers/seojohn)  
 💡 Siempre en busca de nuevas tecnologías y metodologías para mejorar el desarrollo.  
 🌎 Apasionado por la colaboración en entornos ágiles y trabajo en equipo.  
 ⚡ Me encanta contribuir a proyectos **Open Source** y ayudar a la comunidad.  
-📂 Puedes visitar mi [Portafolio](www.google.com) para conocer más sobre mi trabajo.  
+📂 Puedes visitar mi [Portafolio](https://towrkstech.com/) para conocer más sobre mi trabajo.  
 
 ---
 
