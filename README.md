@@ -5,7 +5,7 @@
 
 <!-- Encabezado -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Soy John Torres  
-### Desarrollador Full Stack | Especialista en Frontend y APIs 🚀  
+### Desarrollador Full Stack | Especialista en UxUi y APIs 🚀  
 <br />
 
 <!-- Introducción -->
